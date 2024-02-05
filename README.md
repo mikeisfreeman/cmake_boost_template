@@ -1,5 +1,5 @@
-##Cmake/Boost C++ CLI Project Template
-#####A quick-start template for CLI application programming using C++/CMake/Boost.
+## Cmake/Boost C++ CLI Project Template
+##### A quick-start template for CLI application programming using C++/CMake/Boost.
 
 By no means complete, and probably not perfect, but a good starting template for writing CLI programs with the initial annoyances already mostly taken care of, for those of us who aren't well versed.
 
@@ -9,7 +9,7 @@ Feel free to suggest changes, I'm putting this here mainly for myself, but maybe
 
 I use this in VS Code with the C/C++ Extension pack (***ms-vscode.cpptools-extension-pack***) which includes the cmake extension.  I don't particularly like the 'quick start' that it does, as I prefer this simpler approach.
 
-####Usage
+#### Usage
 - Before making any changes to the files, look through them and figure out how it all works, then build it as is if you're not very familiar with cmake so you can get your environment set up properly based on any errors reported by cmake.
 
 ***<small><u>VS CODE:</u></small>***
